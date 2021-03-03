@@ -1,0 +1,141 @@
+*
+{
+    background-color: rgb(218, 211, 112);
+}
+h1
+{
+    background-color: orange;
+    text-align: center;    
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+h2
+{
+    background-color: blue;
+     left: 50px;
+     width: 200px;
+
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+}
+#rgba
+{
+    text-decoration :underline purple;    
+    font-size: 32px;
+    font-style: italic;
+    background-color: burlywood;
+    width: 250px;
+    margin-left: 1000px;
+    margin-top: px;
+
+}
+#harru
+{
+    text-decoration: underline black;
+    text-align:center;
+    background-color: crimson;
+    font-size: 35px;
+    margin-top: -700px;
+    width: 250px;
+    margin-left: 600px;
+    font-family :initial;
+}
+
+#rga{
+    
+    font-size: 30px;
+    background-color:burlywood;
+    width: 250px;
+    height:95%;
+    margin-top: 25px;
+    margin-left: 1000px;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+}
+#harry
+{
+    
+    background-color: crimson;
+    font-size: 30px;
+    margin-left: 600px;
+    text-align: center;
+    width: 250px;
+    margin-top: 10px;
+    border-width: 5px;
+    border-color:black;
+    border-style: solid;
+}
+#strength
+{
+    width:200px;
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: 100px;
+    background-color: blueviolet;
+    text-decoration: underline black;
+    
+}
+#weakness
+{
+    width:200px;
+    background-color: lightgreen;
+    margin-top: -35px;
+    font-size: 30px;
+    margin-left: 550px;
+    text-decoration: underline black;
+}
+#personal
+{
+    
+    width:200px;
+    background-color:violet;
+    font-size: 30px;
+    margin-left: 1000px;
+    margin-top: 50px;
+    text-decoration: underline black;
+}
+#s
+{
+ background-color: blueviolet;
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: -100px;   
+    width: 250px;
+    
+    border-width: 5px;
+    border-color:black;
+    border-style: solid;
+}
+#w
+{
+    background-color: lightgreen;
+    font-size: 30px;
+    margin-left:500px;
+    margin-top: -150px;   
+    width: 250px;
+    
+    border-width: 5px;
+    border-color:black;
+    border-style: solid;
+}
+#p
+{
+    background-color:pink ;   
+    font-size: 30px;
+    margin-left:1000px;
+    margin-top: 0px;   
+    width: 250px;
+    
+    border-width: 5px;
+    border-color:black;
+    border-style: solid;
+}
+#x
+{
+    margin-top: -550px;
+    margin-bottom: -500x;
+    margin-left: 80px;
+    
+    border-width: 5px;
+    border-color:black;
+    border-style: solid;
+}
