@@ -1,6 +1,19 @@
+h1:hover { 
+    text-shadow: 0 1px 0 rgb(29, 28, 28), 0 2px 0 #ccc, 
+                 0 3px 0 #ccc, 0 4px 0 #ccc, 
+                 0 5px 0 #ccc, 0 6px 0 #ccc, 
+                 0 7px 0 #ccc, 0 8px 0 #ccc, 
+                 0 9px 0 #ccc, 0 10px 0 #ccc, 
+                 0 11px 0 #ccc, 0 12px 0 #ccc, 
+                 0 20px 30px rgba(0, 0, 0, 0.5); 
+}
 *
 {
-    background-color: rgb(218, 211, 112);
+    background-color:yellow;
+}
+*:hover
+{
+    background: coral;
 }
 h1
 {
@@ -18,7 +31,7 @@ h2
 }
 #rgba
 {
-    text-decoration :underline purple;    
+        
     font-size: 32px;
     font-style: italic;
     background-color: burlywood;
@@ -29,19 +42,16 @@ h2
 }
 #harru
 {
-    text-decoration: underline black;
     text-align:center;
-    background-color: crimson;
     font-size: 35px;
-    margin-top: -700px;
+    margin-top:-450px;
     width: 250px;
-    margin-left: 600px;
+    margin-left: 550px;
     font-family :initial;
 }
-
-#rga{
-    
-    font-size: 30px;
+.circle
+{
+    font-size: 25px;
     background-color:burlywood;
     width: 250px;
     height:95%;
@@ -50,8 +60,17 @@ h2
     border-width: 5px;
     border-color: black;
     border-style: solid;
+    transition:  all 1s 1s;
+    box-shadow: -10px -10px 20px black;
 }
-#harry
+.circle:hover
+{
+    background-color:pink;
+    
+   border-radius: 20px;
+}
+
+.circle1
 {
     
     background-color: crimson;
@@ -59,17 +78,31 @@ h2
     margin-left: 600px;
     text-align: center;
     width: 250px;
-    margin-top: 10px;
+    height: 95%;
+    margin-top: 40px;
+    margin-left: 550px;
     border-width: 5px;
     border-color:black;
     border-style: solid;
+    transition:  background-color 1s, border radius 5s;
+    
+    transition:  all 1s 1s;
+    box-shadow: -10px -10px 20px black;
 }
+
+
+.circle1:hover
+{
+    background-color: darkmagenta;
+   border-radius: 50px;
+}
+
 #strength
 {
     width:200px;
     font-size: 30px;
     margin-left: 100px;
-    margin-top: 100px;
+    margin-top: 2s0px;
     background-color: blueviolet;
     text-decoration: underline black;
     
@@ -78,10 +111,11 @@ h2
 {
     width:200px;
     background-color: lightgreen;
-    margin-top: -35px;
+    
     font-size: 30px;
     margin-left: 550px;
     text-decoration: underline black;
+    
 }
 #personal
 {
@@ -98,24 +132,30 @@ h2
  background-color: blueviolet;
     font-size: 30px;
     margin-left: 100px;
-    margin-top: -100px;   
+    margin-top: -120px;   
     width: 250px;
     
     border-width: 5px;
     border-color:black;
     border-style: solid;
+    
+    transition:  all 1s 1s;
+    box-shadow: -10px -10px 20px black;
 }
 #w
 {
     background-color: lightgreen;
     font-size: 30px;
     margin-left:500px;
-    margin-top: -150px;   
+    margin-top: -100px;   
     width: 250px;
     
     border-width: 5px;
     border-color:black;
     border-style: solid;
+    
+    transition:  all 1s 1s;
+    box-shadow: -10px -10px 20px black;
 }
 #p
 {
@@ -128,14 +168,20 @@ h2
     border-width: 5px;
     border-color:black;
     border-style: solid;
+    
+    transition:  all 1s 1s;
+    box-shadow: -10px -10px 20px black;
 }
 #x
 {
-    margin-top: -550px;
-    margin-bottom: -500x;
+    margin-top: -4000px;
+    margin-bottom: -7000x;
     margin-left: 80px;
     
     border-width: 5px;
     border-color:black;
     border-style: solid;
+    
+    transition:  all 1s 1s;
+    box-shadow: -10px -10px 20px black;
 }
